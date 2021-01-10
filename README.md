@@ -1,5 +1,6 @@
 # Tic-Tac-ToeWithAI
 Tic-Tac-Toe / Noughts and Crosses / Xs and Os game simulator (JetBrains Academy's project)
+
 There are several modes available:
 - User plays with another user
 - User plays with AI
